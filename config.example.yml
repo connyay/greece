@@ -1,0 +1,7 @@
+---
+projects:
+  - app1:
+    title: App 1
+    repo: http://git.example.com/repos/app1.git
+    jshint: app/.jshintrc
+    files: app/js/**/*.js
